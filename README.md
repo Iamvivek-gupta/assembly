@@ -2,13 +2,15 @@
 
 Instruction to clone the following repo
 
-1. clone the repository using following command
-git clone 
+1. clone the repository using following command:
+git clone https://github.com/Iamvivek-gupta/assembly.git
 
-2. download the node_modules 
+2. download the node_modules: 
 npm install
 
-3. server is running on PORT 3001
+3. to start the put command:
+npm start 
+server is running on PORT 3001
 
 4. now we are ready to getting API responce
 

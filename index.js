@@ -114,7 +114,7 @@ app.get('/api/visitors',async (req,res) => {
 
 
 
-const PORT = 3001;
-app.listen(PORT, () => {
-    console.log("server is up on port " + PORT);
+const port = 3001;
+app.listen(port, () => {
+    console.log("server is up on port " + port);
 });
